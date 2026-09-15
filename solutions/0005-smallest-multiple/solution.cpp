@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+
+long long gcd(long long a, long long b)
+{
+    while (b != 0)
+    {
+        long long temp = b;
+        b = a % b;
+        a = temp;
+    }
+
+    return a;
+}
+
+int main()
+{
+    long long result = 1;
+
+    for (int i = 2; i <= 20; i++)
+    {
+        result = result / gcd(result, i) * i;
+    }
+
+    cout << result << endl;
+
+    return 0;
+}
