@@ -171,8 +171,9 @@ Do not include solutions for multiple problems in the same commit.
 | 0004 | Largest Palindrome Product | [View Solution](solutions/0004-largest-palindrome-product/) |
 | 0005 | Smallest Multiple | [View Solution](solutions/0005-smallest-multiple/) |
 | 0006 | Sum Square Difference | [View Solution](solutions/0006-sum-square-difference/) |
+| 0007 | 10001st Prime | [View Solution](solutions/0007-10001st-prime/) |
 
-**Total problems solved: 6**
+**Total problems solved: 7**
 
 ---
 
