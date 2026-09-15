@@ -165,9 +165,14 @@ Do not include solutions for multiple problems in the same commit.
 
 | Problem | Title | Solution |
 |:-------:|-------|:--------:|
-| 0001 | Multiples of 3 and 5 | [View Solution](solutionsof-3-and-5/ |
+| 0001 | Multiples of 3 and 5 | [View Solution](solutions/0001-multiples-of-3-and-5/) |
+| 0002 | Even Fibonacci Numbers | [View Solution](solutions/0002-even-fibonacci-numbers/) |
+| 0003 | Largest Prime Factor | [View Solution](solutions/0003-largest-prime-factor/) |
+| 0004 | Largest Palindrome Product | [View Solution](solutions/0004-largest-palindrome-product/) |
+| 0005 | Smallest Multiple | [View Solution](solutions/0005-smallest-multiple/) |
+| 0006 | Sum Square Difference | [View Solution](solutions/0006-sum-square-difference/) |
 
-**Total problems solved: 1**
+**Total problems solved: 6**
 
 ---
 
