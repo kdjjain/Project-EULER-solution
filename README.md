@@ -1,36 +1,186 @@
-\# Project Euler Solutions
+# Project Euler Solutions
 
+This repository contains my solutions to Project Euler problems, written in C++.
 
+The purpose of this repository is to:
 
-My solutions to Project Euler problems written in C++.
+- Maintain a record of the problems I have solved.
+- Document the approach used for each problem.
+- Build a long-term collection of mathematical and algorithmic problem-solving techniques.
+- Keep every solution organised, searchable, and easy to revisit.
 
+---
 
-
-\## Goals
-
-
-
-\- Maintain a record of all solved Project Euler problems.
-
-\- Document the approach and reasoning behind each solution.
-
-\- Build a personal knowledge base of mathematical and algorithmic techniques.
-
-\- Track progress over time.
-
-
-
-\## Repository Structure
-
-
+## Repository Structure
 
 ```text
-
 solutions/
+├── 0001-multiples-of-3-and-5/
+│   ├── solution.cpp
+│   └── explanation.md
+│
+├── 0002-even-fibonacci-numbers/
+│   ├── solution.cpp
+│   └── explanation.md
+│
+└── ...
+```
 
-└── 001\_Multiples\_of\_3\_and\_5/
+Each problem has its own directory containing exactly two files:
 
-&#x20;   ├── solution.cpp
+- `solution.cpp`: The final working C++ solution.
+- `explanation.md`: A concise explanation of the approach.
 
-&#x20;   └── explanation.md
+---
 
+## Folder Naming Convention
+
+Problem folders must follow this format:
+
+```text
+<four-digit-problem-number>-<problem-title>
+```
+
+Examples:
+
+```text
+0001-multiples-of-3-and-5
+0002-even-fibonacci-numbers
+0010-summation-of-primes
+0100-arranged-probability
+1000-problem-title
+```
+
+### Rules
+
+- Pad the Project Euler problem number to four digits.
+- Use the original problem title.
+- Use lowercase letters for the title.
+- Separate words using hyphens (`-`).
+- Do not use spaces or underscores.
+
+Four-digit numbering keeps the folders correctly sorted, including problems numbered 1000 and above.
+
+---
+
+## Solution Guidelines
+
+The `solution.cpp` file should contain:
+
+- A correct and complete solution.
+- Clean and readable C++ code.
+- The approach actually used to solve the problem.
+- No abandoned experiments or unrelated code.
+
+Example:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    // Solution
+    return 0;
+}
+```
+
+---
+
+## Explanation Guidelines
+
+The explanation should be concise and proportional to the difficulty of the problem.
+
+Basic template:
+
+```markdown
+# Problem XXXX - Problem Title
+
+## Problem
+
+A brief description of the problem.
+
+## Approach
+
+An explanation of the approach used to solve it.
+
+## Complexity
+
+Time Complexity: O(...)
+
+Space Complexity: O(...)
+```
+
+Additional sections may be included when they provide meaningful information:
+
+```markdown
+## Observations
+
+## Mathematical Insight
+
+## Optimisation
+
+## Learnings
+```
+
+These sections are optional and should only be added when they represent a genuine observation, optimisation, or learning.
+
+Do not add sections merely to make the explanation appear more detailed.
+
+---
+
+## Commit Convention
+
+Follow the rule:
+
+> One solved problem per commit.
+
+Commit message format:
+
+```text
+Solve Project Euler #XXXX - Problem Title
+```
+
+Examples:
+
+```text
+Solve Project Euler #0001 - Multiples of 3 and 5
+Solve Project Euler #0002 - Even Fibonacci Numbers
+Solve Project Euler #0010 - Summation of Primes
+Solve Project Euler #1000 - Problem Title
+```
+
+Each problem commit should include:
+
+- The problem directory.
+- `solution.cpp`.
+- `explanation.md`.
+- The README progress update, if applicable.
+
+Do not include solutions for multiple problems in the same commit.
+
+---
+
+## Progress
+
+| Problem | Title | Solution |
+|:-------:|-------|:--------:|
+| 0001 | Multiples of 3 and 5 | [View Solution](solutionsof-3-and-5/ |
+
+**Total problems solved: 1**
+
+---
+
+## Repository Philosophy
+
+The repository documents the real problem-solving process.
+
+The focus is on:
+
+- Correctness
+- Clear reasoning
+- Readable code
+- Concise and useful explanations
+- Meaningful insights when they genuinely exist
+
+Simple problems should have simple explanations. More detailed sections should be added only when the problem requires them.
