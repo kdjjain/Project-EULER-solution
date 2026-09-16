@@ -172,8 +172,9 @@ Do not include solutions for multiple problems in the same commit.
 | 0005 | Smallest Multiple | [View Solution](solutions/0005-smallest-multiple/) |
 | 0006 | Sum Square Difference | [View Solution](solutions/0006-sum-square-difference/) |
 | 0007 | 10001st Prime | [View Solution](solutions/0007-10001st-prime/) |
+| 0025 | 1000-digit Fibonacci Number | [View Solution](solutions/0025-1000-digit-fibonacci-number/) |
 
-**Total problems solved: 7**
+**Total problems solved: 8**
 
 ---
 
