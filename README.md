@@ -174,8 +174,9 @@ Do not include solutions for multiple problems in the same commit.
 | 0007 | 10001st Prime | [View Solution](solutions/0007-10001st-prime/) |
 | 0013 | Large Sum | [View Solution](solutions/0013-large-sum/) |
 | 0025 | 1000-digit Fibonacci Number | [View Solution](solutions/0025-1000-digit-fibonacci-number/) |
+| 0053 | Combinatoric Selections | [View Solution](solutions/0053-combinatoric-selections/) |
 
-**Total problems solved: 9**
+**Total problems solved: 10**
 
 ---
 
