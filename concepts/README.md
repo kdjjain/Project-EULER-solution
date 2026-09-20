@@ -8,3 +8,4 @@ This directory contains reusable concept documents that explain the algorithms a
 |---------|----------|
 | Sieve of Eratosthenes | [View](sieve-of-eratosthenes.md) |
 | Big Number Arithmetic | [View](big-number-arithmetic.md) |
+| Binomial Coefficients | [View](binomial-coefficients.md) |

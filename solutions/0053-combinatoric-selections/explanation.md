@@ -15,6 +15,8 @@ For a fixed n, C(n, r) increases as r goes from 0 to n/2 and then decreases, and
 
 This lets us stop at the first r (up to n/2) whose value passes the limit, so the enormous middle coefficients are never computed and overflow is avoided. The running value is built with the recurrence `C(n, r) = C(n, r - 1) * (n - r + 1) / r`.
 
+See [Binomial Coefficients](../../concepts/binomial-coefficients.md) for the underlying combinatorics.
+
 ## Complexity
 
 Time Complexity: O(N^2)
