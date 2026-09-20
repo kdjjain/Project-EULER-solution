@@ -105,6 +105,7 @@ Let `D` be the number of digits.
 
 ## Reference Problems
 
+- Project Euler #0013 - Large Sum
 - Project Euler #0016 - Power Digit Sum
 - Project Euler #0020 - Factorial Digit Sum
 - Project Euler #0025 - 1000-digit Fibonacci Number
