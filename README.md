@@ -173,11 +173,12 @@ Do not include solutions for multiple problems in the same commit.
 | 0006 | Sum Square Difference | [View Solution](solutions/0006-sum-square-difference/) |
 | 0007 | 10001st Prime | [View Solution](solutions/0007-10001st-prime/) |
 | 0013 | Large Sum | [View Solution](solutions/0013-large-sum/) |
+| 0019 | Counting Sundays | [View Solution](solutions/0019-counting-sundays/) |
 | 0025 | 1000-digit Fibonacci Number | [View Solution](solutions/0025-1000-digit-fibonacci-number/) |
 | 0053 | Combinatoric Selections | [View Solution](solutions/0053-combinatoric-selections/) |
 | 0203 | Squarefree Binomial Coefficients | [View Solution](solutions/0203-squarefree-binomial-coefficients/) |
 
-**Total problems solved: 11**
+**Total problems solved: 12**
 
 ---
 
