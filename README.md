@@ -177,9 +177,10 @@ Do not include solutions for multiple problems in the same commit.
 | 0025 | 1000-digit Fibonacci Number | [View Solution](solutions/0025-1000-digit-fibonacci-number/) |
 | 0030 | Digit Fifth Powers | [View Solution](solutions/0030-digit-fifth-powers/) |
 | 0053 | Combinatoric Selections | [View Solution](solutions/0053-combinatoric-selections/) |
+| 0054 | Poker Hands | [View Solution](solutions/0054-poker-hands/) |
 | 0203 | Squarefree Binomial Coefficients | [View Solution](solutions/0203-squarefree-binomial-coefficients/) |
 
-**Total problems solved: 13**
+**Total problems solved: 14**
 
 ---
 
